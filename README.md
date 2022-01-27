@@ -12,7 +12,7 @@
 <br />
 
 <h3>Hi, I'm Thejas, a passionate self-learning <strong>Full Stack developer</strong> and a <strong>Programming Enthusiast</strong>.</h3>
-- Creator of [@thedappdev](https://github.com/thedappdev)
+Also the Creator of @thedappdev
 
 <br/>
 
