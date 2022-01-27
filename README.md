@@ -25,6 +25,6 @@
 
  </p>
 <p align = 'center'> 
-<a href="https://github.com/mihir0699/mihir0699">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mihir0699&count_private=true&theme=radical" alt="Mihir's github stats" />
+<a href="https://github.com/pthejasrao">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=pthejasrao&count_private=true&theme=radical" alt="Thejas's github stats" />
 </a>
