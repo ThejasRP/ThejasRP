@@ -27,5 +27,5 @@ Also the Creator of @thedappdev
  </p>
 <p align = 'center'> 
 <a href="https://github.com/pthejasrao">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=pthejasrao&count_private=true&theme=radical" alt="Thejas's github stats" />
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=thejasraop&count_private=true&theme=radical" alt="Thejas's github stats" />
 </a>
