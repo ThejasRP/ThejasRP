@@ -8,8 +8,7 @@
 <br />
 <br />
 
-<h3>Hi, I'm Thejas, a passionate self-learning <strong>Full Stack developer</strong> and a <strong>Programming Enthusiast</strong>.</h3>
-Also the Creator of @ThetAppDev
+<h3>Hi, I'm Thejas, a passionate self-learning <strong>web/app developer</strong>.</h3>
 
 <br/>
 
