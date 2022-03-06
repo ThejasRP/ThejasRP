@@ -1,8 +1,4 @@
-# Hi there, I'm [Thejas!](https://github.com/ThejasRaoP) 👋
-<a href="https://twitter.com/ThetAppDev" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
- <a href="https://www.youtube.com/channel/UCUU7EZtzPcsCKs9K2oflYKA?sub_confirmation=1"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+# Hi there, I'm [Thejas!](https://github.com/ThejasRP) 👋
 
 
 <br />
@@ -20,6 +16,6 @@
 
  </p>
 <p align = 'center'> 
-<a href="https://github.com/pthejasrao">
-  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=thejasraop&count_private=true&theme=radical" alt="Thejas's github stats" />
+<a href="https://github.com/ThejasRP">
+  <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=ThejasRP&count_private=true&theme=radical" alt="Thejas's github stats" />
 </a>
