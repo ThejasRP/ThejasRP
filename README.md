@@ -1,7 +1,5 @@
 # Hi there, I'm [Thejas!](https://thejas.pages.dev) 👋
 
-
-<br />
 <br />
 
 <h3>Hi, I'm Thejas, a passionate self-learning <strong>web/app developer</strong>.</h3>
